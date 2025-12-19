@@ -14,4 +14,3 @@
 - Multithreaded checking (1-200 threads)
 - Proxy support
 - Automatically sorts results into **Hits**, **2FA**, **Custom**, and **Bad**
-- Cross-platform compatibility (Windows, Linux, macOS)
