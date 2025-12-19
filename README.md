@@ -1,6 +1,5 @@
-# GhostyDev404 Hotmail Checker
 <sub>Discord: @ghostydev404</sub>
----
+# GhostyDev404 Hotmail Checker
 ## Features
 * Multithreaded login attempts for efficient processing.
 * Proxy support for safer and more reliable requests.
