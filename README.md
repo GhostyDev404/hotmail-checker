@@ -7,3 +7,6 @@
 
 
 10 stars = V2 release.
+
+(preview of V2)
+<img width="1920" height="1080" alt="Skärmbild 2025-12-20 120441" src="https://github.com/user-attachments/assets/5098c420-5866-4c44-9ed4-09e8f3c119a3" />
